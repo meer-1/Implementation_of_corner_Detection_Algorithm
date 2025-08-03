@@ -1,5 +1,5 @@
-# computer-vision-project
-implementation of corner detection algorithm
+
+# implementation of corner detection algorithm
 
 • Implement the Harris Corner detection algorithm from scratch.
 
